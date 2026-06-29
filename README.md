@@ -1,2 +1,10 @@
 # Ultrasonic-Obstacle-Avoidance-Car
-An Arduino-based autonomous obstacle avoidance robot that uses an ultrasonic sensor to detect obstacles, a motor driver for navigation, LEDs for status indication, and a buzzer for obstacle alerts.
+This project is an Arduino-based autonomous robot car that detects obstacles using an HC-SR04 ultrasonic sensor. When an obstacle is detected, the car alerts with a buzzer, switches the status LEDs, reverses, turns to find a clear path, and continues moving forward automatically.
+## Components Used
+- Arduino Uno
+- HC-SR04 Ultrasonic Sensor
+- L293D Motor Driver
+- DC Motors
+- Buzzer
+- Red & Green LEDs
+- Battery Pack
